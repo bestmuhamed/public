@@ -1,0 +1,24 @@
+{
+  "name": "KurdistanCoin",
+  "symbol": "KRDC",
+  "description": "KurdistanCoin is a utility token powered by the Solana blockchain.",
+  "image": "https://raw.githubusercontent.com/bestmuhamed/public/main/logo.png",
+  "attributes": [],
+  "external_url": "https://kurdicoin-muhamed-ali-abdulazizs-projects.vercel.app/",
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/bestmuhamed/public/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "J1yf2Xmsj2TSv9SSGERUUsHmwvMbNTFXhVCgvNgBRQpE",
+        "share": 100
+      }
+    ]
+  }
+}
